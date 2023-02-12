@@ -6,9 +6,9 @@ This repo conatins of all my studies, notes and projects in my jorney of learnin
 
 This folder contains all intial notes when learning the basics of coding and Python
 
-## alien_invasion
+## data_visualization
 
-My first proper program, a simple game using Pygame. 
+Plotting data visually using Matplotlib and Plotly  
 
 Following the instructions in
 >Python Crash Course: A Hands-on, Project-based Introdution to Programming by Eric Matthews 
