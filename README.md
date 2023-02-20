@@ -12,3 +12,10 @@ Plotting data visually using Matplotlib and Plotly
 
 Following the instructions in
 >Python Crash Course: A Hands-on, Project-based Introdution to Programming by Eric Matthews 
+
+## web_applications
+
+Creating web applications using Django
+
+Following the instructions in
+>Python Crash Course: A Hands-on, Project-based Introdution to Programming by Eric Matthews 

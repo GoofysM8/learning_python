@@ -1,2 +1,8 @@
 *__pycache__
+
+#data_visualization
 /data_visualization/data
+
+#web_applications
+/web_applications/learning_log/ll_env
+/web_applications/learning_log/db*
