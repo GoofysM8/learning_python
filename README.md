@@ -1,6 +1,6 @@
 # learning_python
 
-This repo conatins of all my studies, notes and projects in my jorney of learning python
+This repo contains of all my studies, notes and projects in my jorney of learning python
 
 ## basic_notes
 
