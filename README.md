@@ -20,4 +20,3 @@ Creating web applications using Django
 Following the instructions in
 >Python Crash Course: A Hands-on, Project-based Introdution to Programming by Eric Matthews 
 
-test
